@@ -1,5 +1,5 @@
 # Cheatsheet
-## remote repos
+### remote repos
 cloning a repo/fork
 ~~~~bash
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
@@ -8,7 +8,7 @@ pushing to the repo/fork
 ~~~~bash
 git push origin main
 ~~~~
-## workflow
+### workflow
 ~~~~bash
 git add .
 ~~~~
