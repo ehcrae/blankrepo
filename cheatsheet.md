@@ -19,3 +19,16 @@ git commit -m "A message describing what you have done to make this snapshot dif
 git status
 git log
 ~~~~
+### branches
+what branch am I in?
+~~~~bash
+git checkout
+~~~~
+How do I add branches?
+~~~bash
+git branch new_branch
+~~~
+How do I change branch?
+~~~bash
+git checkout this_branch
+~~~
